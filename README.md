@@ -27,3 +27,6 @@ Código para el análisis en diferido de los ficheros CSV generados (mapa con ub
 Ficheros CSV generados durante la implementación del trabajo.
 
 Leyendas generadas para el código de la estación de análisis en diferido
+
+
+MANUAL DE FUNCIONAMIENTO (PROXIMAMENTE)     
